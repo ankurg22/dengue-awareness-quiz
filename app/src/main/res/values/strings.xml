@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="hint">Enter Your Answer Here</string>
+    <string name="submit">Submit</string>
+    <string name="q1">What are the potential mosquito breeding sites given below? Check all that apply.</string>
+    <string name="one_a">Stagnant Water</string>
+    <string name="one_b">Bundle of books</string>
+    <string name="one_c">Flower Pot</string>
+    <string name="q2">Which of the following groups of people could potentially contract Dengue?</string>
+    <string name="kids">Kids</string>
+    <string name="adults">Adults</string>
+    <string name="senior">Senior Citizens</string>
+    <string name="all">All of the above</string>
+    <string name="q3">Dengue id caused by which mosquito? Name it</string>
+    <string name="hint_three">5 letter name</string>
+    <string name="q5">Getting infected by Dengue once makes you immune to all forms of Dengue in the future?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="q6">Dengue is characterized by which of the following?</string>
+    <string name="fever_one">Fever without rash</string>
+    <string name="fever_two">Fever with rash</string>
+    <string name="fever_three">Rash without fever</string>
+    <string name="fever_four">Neither fever not rash</string>
+    <string name="q4">In dengue bleeding occurs due to deficiency of what?</string>
+    <string name="hint_four">Blood component</string>
+    <string name="heading">Dengue Awareness</string>
+    <string name="attempt">Please attempt all questions</string>
+    <string name="score">Score : #/60</string>
+</resources>
