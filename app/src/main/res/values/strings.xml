@@ -6,12 +6,12 @@
     <string name="one_a">Stagnant Water</string>
     <string name="one_b">Bundle of books</string>
     <string name="one_c">Flower Pot</string>
-    <string name="q2">Which of the following groups of people could potentially contract Dengue?</string>
+    <string name="q2">Which of the following groups of people could potentially contact Dengue?</string>
     <string name="kids">Kids</string>
     <string name="adults">Adults</string>
     <string name="senior">Senior Citizens</string>
     <string name="all">All of the above</string>
-    <string name="q3">Dengue id caused by which mosquito? Name it</string>
+    <string name="q3">Dengue is caused by which mosquito? Name it</string>
     <string name="hint_three">5 letter name</string>
     <string name="q5">Getting infected by Dengue once makes you immune to all forms of Dengue in the future?</string>
     <string name="yes">Yes</string>
